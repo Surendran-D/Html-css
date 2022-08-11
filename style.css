@@ -1,6 +1,26 @@
-p{
-    color:blue;
-   text-align: center;
- 
+body{
+    background-color: aqua;
+    background-image: url(spidy.png);
+    background-repeat: no-repeat;
+    background-size: 200px 200px;
+    background-position:center;
+    height: 800px;
+    width: 600px;
 }
+
+div.str{
+    text-align: center;
+}
+h3{
+    letter-spacing: 2px;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: u;
+}
+ul li:nth-child(3){
+    color: orangered;
+}
+
+
+
 
