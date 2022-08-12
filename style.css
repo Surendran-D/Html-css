@@ -1,11 +1,7 @@
 body{
     background-color: aqua;
-    background-image: url(spidy.png);
-    background-repeat: no-repeat;
-    background-size: 200px 200px;
-    background-position:center;
-    height: 800px;
-    width: 600px;
+   
+    
 }
 
 div.str{
